@@ -1,0 +1,12 @@
+Host tejaschauhan
+	User git
+	Hostname gitlab.com
+	PreferredAuthentications publickey
+	IdentityFile ~/.ssh/id_rsa_college
+
+Host kevit.tejas.chauhan
+	User git
+	Hosrname gitlab.com
+	PreferredAuthentications publickey
+	IdentityFile ~/.ssh/id_rsa
+
