@@ -13,8 +13,8 @@ To gather data of products from e-commerce websites.
 
 *
     ```
-        cd spiders
-        scrapy runspider scrapeflipkart.py
+       cd spiders
+       scrapy runspider scrapeflipkart.py
     ```
 
 ### Snapshot of scrapped mobile data
