@@ -25,4 +25,4 @@ Currently, it scrape only data of four brands Mi, Vivo, Oppo, Samsung.
 
 ![data_2](https://github.com/tejaschauhan373/flipkart-scrapper-scrapy/blob/master/images/smart_phone_data_2.png?raw=true)
 
-![data_3](https://github.com/tejaschauhan373/flipkart-scrapper-scrapy/blob/master/images/smart_phone_data_1.png?raw=true)
+![data_3](https://github.com/tejaschauhan373/flipkart-scrapper-scrapy/blob/master/images/smart_phone_data_3.png?raw=true)
