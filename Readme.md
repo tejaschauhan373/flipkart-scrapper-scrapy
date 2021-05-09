@@ -19,7 +19,7 @@ To gather data of products from e-commerce websites.
 
 ### Snapshot of scrapped mobile data
 
-Currently, it scrape only data of four brands Mi, Vivo, Oppo, Samsung.
+Currently, it scrapes only data of smart phone of four brands Mi, Vivo, Oppo, Samsung.
 
 ![data_1](https://github.com/tejaschauhan373/flipkart-scrapper-scrapy/blob/master/images/smart_phone_data_1.png?raw=true)
 
