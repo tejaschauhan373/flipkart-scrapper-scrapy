@@ -11,7 +11,7 @@ To gather data of products from e-commerce websites.
     ```
 ### Run the project
 
-*
+* Run the below commands
     ```
       cd spiders
       scrapy runspider scrapeflipkart.py
