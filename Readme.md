@@ -21,8 +21,8 @@ To gather data of products from e-commerce websites.
 
 Currently, it scrape only data of four brands Mi, Vivo, Oppo, Samsung.
 
-![data_1](https://gitlab.com/tejaschauhan/e-commerce-scrapper/-/blob/master/images/smart_phone_data_1.png?raw=true)
+![data_1](https://github.com/tejaschauhan373/flipkart-scrapper-scrapy/blob/master/images/smart_phone_data_1.png?raw=true)
 
-![data_2](https://gitlab.com/tejaschauhan/e-commerce-scrapper/-/blob/master/images/smart_phone_data_2.png?raw=true)
+![data_2](https://github.com/tejaschauhan373/flipkart-scrapper-scrapy/blob/master/images/smart_phone_data_2.png?raw=true)
 
-![data_3](https://gitlab.com/tejaschauhan/e-commerce-scrapper/-/blob/master/images/smart_phone_data_3.png)
+![data_3](https://github.com/tejaschauhan373/flipkart-scrapper-scrapy/blob/master/images/smart_phone_data_1.png?raw=true)
